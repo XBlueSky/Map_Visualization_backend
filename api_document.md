@@ -24,9 +24,9 @@ We use `Express.js` for our backend framework and `mongodb` for database.
 
   * **Code:** `200` <br />
       
-        **Content:** 
+    **Content:** 
         
-        `[ {"station_name_en":"Taipei Zoo","line_code":"BR","lat":24.998197,"lon":121.579338,"num":1},... ]`
+        [ {"station_name_en":"Taipei Zoo","line_code":"BR","lat":24.998197,"lon":121.579338,"num":1},... ]
  
 
 * **Sample Call**
@@ -61,9 +61,9 @@ We use `Express.js` for our backend framework and `mongodb` for database.
 
   * **Code:** `200` <br />
       
-        **Content:** 
+    **Content:** 
 
-        `[ {"locationCount":[[25.069,121.478,66],[25.076,121.475,45],[25.132,121.468,160],..]} ]`
+        [ {"locationCount":[[25.069,121.478,66],[25.076,121.475,45],[25.132,121.468,160],..]} ]
  
 
 * **Sample Call**
@@ -97,9 +97,9 @@ We use `Express.js` for our backend framework and `mongodb` for database.
 
   * **Code:** `200` <br />
   
-        **Content:** 
+    **Content:** 
         
-        `[ {"address":"臺北市中正區","lat":25.03240487,"lon":121.5198839,"num":1},... ]`
+        [ {"address":"臺北市中正區","lat":25.03240487,"lon":121.5198839,"num":1},... ]
  
 * **Sample Call**
 
@@ -133,9 +133,9 @@ We use `Express.js` for our backend framework and `mongodb` for database.
 
   * **Code:** `200` <br />
       
-        **Content:** 
+    **Content:** 
         
-        `[ {"districtAllocate":[{"name":[25.093,121.734],"d_id":18},{"name":[25.093,121.733],"d_id":18},...]} ]`
+        [ {"districtAllocate":[{"name":[25.093,121.734],"d_id":18},{"name":[25.093,121.733],"d_id":18},...]} ]
  
 
 * **Sample Call**
@@ -170,9 +170,9 @@ We use `Express.js` for our backend framework and `mongodb` for database.
 
   * **Code:** `200` <br />
       
-        **Content:** 
+    **Content:** 
        
-        `[ {"info":[{"begin":"00:15:50","end":"00:20:43","lat":"25.042","lon":"121.507"},...]} ]`
+        [ {"info":[{"begin":"00:15:50","end":"00:20:43","lat":"25.042","lon":"121.507"},...]} ]
  
 
 * **Sample Call**
@@ -207,9 +207,9 @@ We use `Express.js` for our backend framework and `mongodb` for database.
 
   * **Code:** `200` <br />
       
-        **Content:** 
+    **Content:** 
        
-        `[ {"info":[{"begin":"00:15:50","end":"00:20:43","lat":"25.042","lon":"121.507"},...]} ]`
+        [ {"info":[{"begin":"00:15:50","end":"00:20:43","lat":"25.042","lon":"121.507"},...]} ]
  
 
 * **Sample Call**
